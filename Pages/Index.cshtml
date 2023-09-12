@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h3>Year:</h3>
+    <form method="post">
+        <input type="text" name="userInput" value="0">
+        <button type="submit">Submit</button>
+        <button type="submit" asp-page-handler="Clear">Clear</button>
+    </form>
+    <p>@ViewData["ErrorMessage"]</p>
+    <p>@ViewData["ZodiacName"]</p>
+    <img src=@ViewData["ImageSource"] />
+</div>
