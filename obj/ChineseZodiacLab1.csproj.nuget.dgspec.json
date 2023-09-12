@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\ChineseZodiacLab1.csproj": {}
+    "c:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\ChineseZodiacLab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\ChineseZodiacLab1.csproj": {
+    "c:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\ChineseZodiacLab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\ChineseZodiacLab1.csproj",
+        "projectUniqueName": "c:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\ChineseZodiacLab1.csproj",
         "projectName": "ChineseZodiacLab1",
-        "projectPath": "C:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\ChineseZodiacLab1.csproj",
+        "projectPath": "c:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\ChineseZodiacLab1.csproj",
         "packagesPath": "C:\\Users\\chene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\obj\\",
+        "outputPath": "c:\\Users\\chene\\Desktop\\CST\\cst t4\\dotnet\\ChineseZodiacLab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
